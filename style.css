@@ -1,1 +1,12 @@
-/* No CSS *//*# sourceMappingURL=style.css.map */
+.bg-green {
+  background-color: rgba(26, 103, 61, 0.81);
+}
+
+.text-green {
+  color: rgba(26, 103, 61, 0.81);
+}
+
+.navbar-green {
+  color: rgba(26, 103, 61, 0.81);
+}
+/*# sourceMappingURL=style.css.map */
